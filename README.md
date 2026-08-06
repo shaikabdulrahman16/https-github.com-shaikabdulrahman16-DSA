@@ -18,8 +18,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shaikabdulrahman16/https-github.com-shaikabdulrahman16-DSA/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/shaikabdulrahman16/https-github.com-shaikabdulrahman16-DSA/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shaikabdulrahman16/https-github.com-shaikabdulrahman16-DSA/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shaikabdulrahman16/https-github.com-shaikabdulrahman16-DSA/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shaikabdulrahman16/https-github.com-shaikabdulrahman16-DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
